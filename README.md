@@ -36,8 +36,8 @@ CSR initiatives post employment opportunities based on acquired skills. The staf
 
 ## Technologies Used
 
-- **Java Swing:** Responsive graphical user interface.
-- **Networking:** Enables real-time communication.
+- **Java Swing:** Responsive graphical user interface
+- **Networking:** Enables real-time communication
 
 ## Getting Started
 
